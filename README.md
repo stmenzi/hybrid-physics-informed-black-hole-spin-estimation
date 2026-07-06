@@ -32,5 +32,5 @@ In the supplied runs, the PINN reproduces angular-mode profiles qualitatively, b
 .
 ├── inverse_pinn_spin_estimation.py
 ├── requirements.txt
-├── inverse_pinn_spin_results.rar
+├── inverse_pinn_spin_results.zip
 └── README.md
